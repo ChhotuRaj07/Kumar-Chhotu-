@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi there, I'm Kumar-Chhotu Raj</h1>
 
-<p align="center" font-size-16px>
+<p align="center" font-size-16px font-family:monospace>
 🎓 MSc IT Student | 🌐 Web Developer | ☁️ Cloud & AI Enthusiast  
 <br>💡 Currently Exploring: Python · Linux · Networking · AI  
 <br>🚀 Goal: Build powerful apps that solve real-world problems  
