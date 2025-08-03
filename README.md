@@ -45,14 +45,38 @@
 
 </div>
 
----📂 Projects Showcase
-🔨 Project	🔗 Link	📝 Description
-🧠 AI Blog Website
-<sub>HTML • CSS • JS • AI Content</sub>	GitHub Repo	A modern and informative blog platform that educates users about Artificial Intelligence, its societal impact, and fast-skill adoption using AI-integrated tools.
-💼 Portfolio Website
-<sub>HTML • CSS • Tailwind • JS</sub>	Live Site	A clean, responsive personal portfolio that highlights your skills, GitHub projects, resume, and contact information in a professional layout.
-🐧 Linux Automation Scripts
-<sub>Bash • Linux CLI</sub>	GitHub Repo	A set of powerful shell scripts crafted to automate repetitive Linux tasks — including setup, package management, and user access control — ideal for sysadmins and developers.
+## 📂 Projects Showcase
+
+<p align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>🔨 Project</th>
+      <th>🔗 Link</th>
+      <th>📄 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🧠 <strong>AI Blog Website</strong></td>
+      <td><a href="https://github.com/your-username/ai-blog" target="_blank">View Repo</a></td>
+      <td>A modern blog platform explaining AI concepts and its future impact.</td>
+    </tr>
+    <tr>
+      <td>💼 <strong>Portfolio Website</strong></td>
+      <td><a href="https://yourwebsite.com" target="_blank">Visit Site</a></td>
+      <td>A personal site showcasing my skills, resume, and recent projects.</td>
+    </tr>
+    <tr>
+      <td>🐧 <strong>Linux Automation Scripts</strong></td>
+      <td><a href="https://github.com/your-username/linux-scripts" target="_blank">View Repo</a></td>
+      <td>Shell scripts for automating system tasks and server setup on Linux.</td>
+    </tr>
+  </tbody>
+</table>
+
+</p>
 
 
 ## 📊 GitHub Stats
